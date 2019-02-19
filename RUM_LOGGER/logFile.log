@@ -1,0 +1,15 @@
+2019-02-15 13:52:41,816 INFO  com.opnlabs.rum.RumApp   - Starting RumApp on peoplytics-Machine-20.local.hirrr.com with PID 22213 (/home/manivannan/projects/404ProRum/target/classes started by manivannan in /home/manivannan/projects/404ProRum)
+2019-02-15 13:52:41,821 DEBUG com.opnlabs.rum.RumApp   - Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2019-02-15 13:52:41,822 INFO  com.opnlabs.rum.RumApp   - No active profile set, falling back to default profiles: default
+2019-02-15 13:52:48,493 INFO  com.opnlabs.rum.RumApp   - Started RumApp in 7.604 seconds (JVM running for 15.048)
+2019-02-15 13:52:56,027 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
+2019-02-15 13:53:07,063 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
+2019-02-15 13:53:07,066 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
+2019-02-15 13:53:52,030 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
+2019-02-15 13:53:52,036 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
+2019-02-15 13:56:33,395 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
+2019-02-15 13:56:33,410 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
+2019-02-15 13:57:01,725 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
+2019-02-15 13:57:01,733 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
+2019-02-15 13:58:11,720 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
+2019-02-15 13:58:11,721 INFO  opnlabs.rum.controller.Rumcontroller   - REQUEST RECEIVED TO RUM API
